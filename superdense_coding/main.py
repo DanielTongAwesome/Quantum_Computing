@@ -11,7 +11,7 @@ import pennylane as qml
 from pennylane import numpy as np
 
 '''
-wires - Number of subsystems represented by the devices(qbuts)
+wires - Number of subsystems represented by the devices(qubits)
 shots - How many times the circuit should be evaluated
 '''
 
