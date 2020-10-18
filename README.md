@@ -1,7 +1,7 @@
 <!--
  * @Author: Zitian(Daniel) Tong
  * @Date: 2020-10-17 17:30:56
- * @LastEditTime: 2020-10-17 17:47:05
+ * @LastEditTime: 2020-10-17 17:48:33
  * @LastEditors: Zitian(Daniel) Tong
  * @Description: 
  * @FilePath: /Quantum_Computing/README.md
@@ -13,14 +13,16 @@ Welcome! In this repo, I will update some demo code for performing quantum compu
 
 ## Configuring your environmentz
 
-1. [Install PennyLane](https://pennylane.ai/qml/)
+1. [Install PennyLane](https://pennylane.ai/qml/) </br>
+a cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ```shell
 # install the latest released version of PennyLane
 pip install pennylane --upgrade
 ```
 
-2. [PennyLane Doc](https://pennylane.readthedocs.io/en/stable/code/qml.html): Use this link to see more detailed about the classes and quantum operation
+2. [PennyLane Doc](https://pennylane.readthedocs.io/en/stable/code/qml.html)</br>
+Use this link to see more detailed about the classes and quantum operation
 
 
 ## Project Description
