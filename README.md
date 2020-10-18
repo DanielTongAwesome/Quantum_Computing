@@ -11,7 +11,7 @@
 
 Welcome! In this repo, I will update some demo code for performing quantum computing.
 
-## Configuring your environmentz
+## Configuring Your Environment
 
 1. [Install PennyLane](https://pennylane.ai/qml/) </br>
 a cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
