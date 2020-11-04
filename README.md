@@ -3,9 +3,10 @@
  * @Date: 2020-10-17 17:30:56
  * @LastEditTime: 2020-10-17 17:48:33
  * @LastEditors: Zitian(Daniel) Tong
- * @Description: 
+ * @Description: README for q
  * @FilePath: /Quantum_Computing/README.md
 -->
+
 # Quantum Computing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A repo to record my quantum computing learning
 
