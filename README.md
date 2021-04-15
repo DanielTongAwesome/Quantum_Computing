@@ -24,6 +24,10 @@ pip install pennylane --upgrade
 2. [PennyLane Doc](https://pennylane.readthedocs.io/en/stable/code/qml.html)</br>
 Use this link to see more detailed about the classes and quantum operation
 
+3. [install Qiskit](https://qiskit.org/documentation/getting_started.html)
+Use the above hyperlink to checkout the Qiskit installation procedures
+
+Recommded Environment: Anaconda
 
 ## Project Description
 1. [Superdense Coding](superdense_coding/main.py) </br>
